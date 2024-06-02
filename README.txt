@@ -1,0 +1,1 @@
+El código de toda la plataforma web se encuentra en la carpeta theme
